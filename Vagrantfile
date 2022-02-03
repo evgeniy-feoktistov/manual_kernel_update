@@ -7,7 +7,7 @@ MACHINES = {
               # VM CPU count
               :cpus => 2,
               # VM RAM size (Mb)
-              :memory => 1024,
+              :memory => 512,
               # networks
               :net => [],
               # forwarded ports
